@@ -1,0 +1,6 @@
+{
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.requireConfig": true,
+    "prettier.withNodeModules": true
+}
