@@ -1,0 +1,19 @@
+.margin {
+    margin: 0 5rem;
+}
+
+.padding {
+    padding: 0 5rem;
+}
+
+@media (max-width: 800px) {
+    .padding {
+        padding: 0 2rem;
+    }
+}
+
+@media (max-width: 800px) {
+    .margin {
+        margin: 0 2rem;
+    }
+}
